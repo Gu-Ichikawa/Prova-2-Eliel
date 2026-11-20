@@ -1,8 +1,8 @@
-package controllers;
+package com.bn.funcionario.controllers;
 
 
-import models.FuncionarioModel;
-import services.FuncionarioServices;
+import com.bn.funcionario.models.FuncionarioModel;
+import com.bn.funcionario.services.FuncionarioServices;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

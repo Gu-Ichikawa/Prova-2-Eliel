@@ -1,7 +1,7 @@
-package services;
+package com.bn.funcionario.services;
 
-import models.FuncionarioModel;
-import repositories.FuncionarioRepository;
+import com.bn.funcionario.models.FuncionarioModel;
+import com.bn.funcionario.repositories.FuncionarioRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
